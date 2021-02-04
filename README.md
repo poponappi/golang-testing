@@ -1,3 +1,3 @@
 # golang-testing
 
-This repository is for my Go-language learing.
+This repository is for me to learn Go-language.
